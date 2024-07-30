@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Qeteshpony/NTP-Server/compare/v1.0.0...v1.0.1) (2024-07-30)
+
+
+### Bug Fixes
+
+* grid origin ([6723800](https://github.com/Qeteshpony/NTP-Server/commit/6723800a617f8cb33afcf18d2913918911a3cf99))
+
 ## 1.0.0 (2024-07-28)
 
 
