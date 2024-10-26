@@ -6,4 +6,4 @@
 
 [Hardware Documentation](https://qeteshpony.github.io/NTP-Server)
 
-Raspberry Pi Hat to connect a GT-U7 GPS Module, a DS3231 RTC, a display and some buttons in an orderly fashion
+Raspberry Pi Hat to connect a GT-U7 GPS Module and a DS3231 RTC in an orderly fashion
